@@ -9,6 +9,8 @@ How to access the data:
   Pandas dataframe in parquet format: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/full_df.parquet
   
   Raw download of the FracFocus data: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/ff_archive_2023-07-26.zip
+
+  Interactive maps of proprietary disclosures by county: https://drive.google.com/file/d/141du7RlCfN9nZ2uxdxxd7SBIQeWlCoSP/view
   
 
 
