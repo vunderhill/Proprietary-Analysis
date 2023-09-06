@@ -15,7 +15,7 @@ How to access the data:
 Warning: the Open-FF dataset is quite large, so storing it on a Cloud platform will be more space-efficient than on your personal computer. The notebook below reads the data directly from the cloud-stored files.
 
 How to run the notebook: 
-This page includes a Jupyter Notebook entitled “Proprietary_Aug_2023.ipynb” that contains all of the Python code that generates statistics and visualizations used in this paper. 
+This page includes a Jupyter Notebook entitled “Proprietary_Aug_2023.ipynb” that contains all of the Python code that generates statistics and visualizations used in this paper. It also includes a standalone HTML version of interactive maps showing proprietary disclosures and total disclosures per US county. 
 
 (Note that this notebook enacts filtering and data cleaning in its first few lines. It drops all records that don’t have a CalcMass value, and removes one outlier that is two orders of magnitude larger than the rest of the dataset. It also filters to only include data from Jan 1, 2014 to December 31, 2022). 
 
