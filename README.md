@@ -6,11 +6,10 @@ This project analyzes the masses of “proprietary” or “trade secret” clai
 How to access the data: 
  Please follow these links to the full dataset used for this paper (v 16 of Open-FF, downloaded as of August 31, 2023): 
   
-  Pandas dataframe in parquet format
+  Pandas dataframe in parquet format: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/full_df.parquet
   
-  Raw download of the FracFocus data
+  Raw download of the FracFocus data: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/ff_archive_2023-07-26.zip
   
-  Interactive maps by county in HTML format
 
 
 Warning: the Open-FF dataset is quite large, so storing it on a Cloud platform will be more space-efficient than on your personal computer. The notebook below reads the data directly from the cloud-stored files.
