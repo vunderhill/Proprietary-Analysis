@@ -10,7 +10,7 @@ How to access the data:
   
   Raw download of the FracFocus data: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/ff_archive_2023-07-26.zip
 
-  Interactive maps of proprietary disclosures by county: https://drive.google.com/file/d/141du7RlCfN9nZ2uxdxxd7SBIQeWlCoSP/view
+  Interactive maps of proprietary disclosures by county: https://storage.googleapis.com/open-ff-common/repos/keep_proprietary_paper_data/maps_of_proprietary_article.html
   
 
 
